@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="nodejsPath" value="" />
+    <rules>
+      <Rule active="false" key="java:S3416" />
+      <Rule active="false" key="java:S3398" />
+      <Rule active="false" key="java:S112" />
+      <Rule active="false" key="java:S1118" />
+      <Rule active="false" key="java:S1186" />
+      <Rule active="false" key="java:S1130" />
+      <Rule active="false" key="java:S3252" />
+    </rules>
+  </component>
+</application>

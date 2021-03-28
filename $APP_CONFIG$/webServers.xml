@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c02d2c2-9d52-491f-a593-2073f224be40" name="Tomcat" url="http://localhost:8080">
+        <fileTransfer mountedRoot="" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

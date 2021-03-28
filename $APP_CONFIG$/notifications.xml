@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="Apache Camel" displayType="NONE" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+  </component>
+</application>

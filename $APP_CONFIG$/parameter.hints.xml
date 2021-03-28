@@ -1,0 +1,18 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.lang.ClassLoader.getResource(name)" />
+        <added pattern="com.agraf.sigma.gui.controls.menuBar.MenuBarPane.MenuBarPane(name,pane,view)" />
+      </blacklist>
+    </blacklists>
+    <option id="java.method.name.contains.parameter.name" value="true" />
+    <disabledLanguages>
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
+  </component>
+</application>

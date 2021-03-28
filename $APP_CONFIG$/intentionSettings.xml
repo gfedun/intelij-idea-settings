@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="EJB/Interceptor bindings" />
+  </component>
+</application>
