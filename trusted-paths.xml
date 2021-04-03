@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/devel/fortna/ZeusFramework" />
+        <option value="$USER_HOME$/devel/my" />
       </list>
     </option>
   </component>
