@@ -192,8 +192,8 @@
         <entry key="*.conf">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="org.jetbrains.plugins.hocon" />
+              <option name="myPluginName" value="HOCON" />
             </plugin>
           </value>
         </entry>
