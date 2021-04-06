@@ -2393,6 +2393,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="build.boot">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.clojure" />
+              <option name="myPluginName" value="Clojure-Kit" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="buildout.cfg">
           <value>
             <plugin>
