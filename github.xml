@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="6ae8bd9f-4ada-4711-a55a-e107632fec1a" name="gfeduniewicz">
-      <server useHttp="false" host="scm.wcs.fortna.com" />
-    </account>
-  </component>
-</application>
