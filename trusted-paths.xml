@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/devel/fortna/ZeusFramework" />
         <option value="$USER_HOME$/devel/my" />
+        <option value="$USER_HOME$/devel/fortna/FortnaWES" />
       </list>
     </option>
   </component>
