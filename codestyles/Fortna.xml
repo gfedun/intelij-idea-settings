@@ -64,6 +64,7 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+    <option name="ALIGN_MULTILINE_RECORDS" value="false" />
   </JavaCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
@@ -155,9 +156,11 @@
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
-    <option name="EXTENDS_LIST_WRAP" value="1" />
+    <option name="EXTENDS_LIST_WRAP" value="5" />
+    <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
