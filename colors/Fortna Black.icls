@@ -3,7 +3,7 @@
     <property name="created">2021-07-28T12:24:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-07-28T14:01:05</property>
+    <property name="modified">2021-07-28T14:37:39</property>
     <property name="originalScheme">Fortna</property>
   </metaInfo>
   <colors>
@@ -18,8 +18,8 @@
     <option name="SELECTED_INDENT_GUIDE" value="cacaca" />
     <option name="SELECTED_TEARLINE_COLOR" value="1e1e1e" />
     <option name="ScrollBar.hoverThumbColor" value="73737333" />
-    <option name="TAB_UNDERLINE" value="9d9d9d" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="e3e3ac" />
+    <option name="TAB_UNDERLINE" value="329843" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="58a1b" />
     <option name="TEARLINE_COLOR" value="acacac" />
     <option name="VISUAL_INDENT_GUIDE" value="e6e6e6" />
     <option name="WHITESPACES" value="f6f6f6" />
@@ -449,7 +449,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="161616" />
-        <option name="BACKGROUND" value="e9e9e9" />
+        <option name="BACKGROUND" value="f3f3f3" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
