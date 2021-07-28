@@ -1,14 +1,14 @@
-<scheme name="Fortna" version="142" parent_scheme="Default">
+<scheme name="Fortna Black" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-09-09T09:16:41</property>
+    <property name="created">2021-07-28T12:24:58</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-07-28T13:42:15</property>
-    <property name="originalScheme">AGRAF</property>
+    <property name="ideVersion">2021.2.0.0</property>
+    <property name="modified">2021-07-28T13:50:21</property>
+    <property name="originalScheme">Fortna</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="" />
+    <option name="CARET_COLOR" value="161616" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="e5e5e5" />
@@ -19,7 +19,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="1e1e1e" />
     <option name="ScrollBar.hoverThumbColor" value="73737333" />
     <option name="TAB_UNDERLINE" value="9d9d9d" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="9d9d9d" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="e3e3ac" />
     <option name="TEARLINE_COLOR" value="acacac" />
     <option name="VISUAL_INDENT_GUIDE" value="e6e6e6" />
     <option name="WHITESPACES" value="f6f6f6" />
@@ -201,6 +201,11 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="780000" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="acb0bf" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -431,18 +436,20 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="BACKGROUND" value="f4f4c2" />
+        <option name="FOREGROUND" value="161616" />
+        <option name="BACKGROUND" value="dfdfa3" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="BACKGROUND" value="f4f4c2" />
+        <option name="FOREGROUND" value="161616" />
+        <option name="BACKGROUND" value="dfdfa3" />
       </value>
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="1f1f1f" />
-        <option name="BACKGROUND" value="d8d8d8" />
+        <option name="FOREGROUND" value="161616" />
+        <option name="BACKGROUND" value="e3e3e3" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
