@@ -3,7 +3,7 @@
     <property name="created">2021-07-28T12:24:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-03T23:55:52</property>
+    <property name="modified">2021-08-04T23:49:33</property>
     <property name="originalScheme">Fortna</property>
   </metaInfo>
   <colors>
@@ -449,7 +449,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="161616" />
-        <option name="BACKGROUND" value="efefef" />
+        <option name="BACKGROUND" value="f1f1f1" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
