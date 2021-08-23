@@ -3,7 +3,7 @@
     <property name="created">2019-09-09T09:16:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-07-28T13:53:46</property>
+    <property name="modified">2021-08-22T21:27:42</property>
     <property name="originalScheme">AGRAF</property>
   </metaInfo>
   <colors>
@@ -18,8 +18,8 @@
     <option name="SELECTED_INDENT_GUIDE" value="cacaca" />
     <option name="SELECTED_TEARLINE_COLOR" value="1e1e1e" />
     <option name="ScrollBar.hoverThumbColor" value="73737333" />
-    <option name="TAB_UNDERLINE" value="9d9d9d" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="9d9d9d" />
+    <option name="TAB_UNDERLINE" value="58a1b" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="58a1b" />
     <option name="TEARLINE_COLOR" value="acacac" />
     <option name="VISUAL_INDENT_GUIDE" value="e6e6e6" />
     <option name="WHITESPACES" value="f6f6f6" />
@@ -431,12 +431,12 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="BACKGROUND" value="f4f4c2" />
+        <option name="BACKGROUND" value="ffffc4" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="BACKGROUND" value="f4f4c2" />
+        <option name="BACKGROUND" value="ffffc4" />
       </value>
     </option>
     <option name="TEXT">
