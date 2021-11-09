@@ -1,19 +1,19 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '…/olm-routing [wes-olm-routing]'" />
+    <option name="defaultScopeName" value="Directory '…/olm-routing [wes-olm-routing]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '…/olm-routing [wes-olm-routing]'" />
     <option name="FILE_MASK" value="*" />
     <mask>Js*</mask>
+    <mask>*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*</mask>
   </component>
 </application>
