@@ -1,9 +1,0 @@
-<application>
-  <component name="GoSdkList">
-    <sdk-path>
-      <set>
-        <option value="/opt/go/now" />
-      </set>
-    </sdk-path>
-  </component>
-</application>
