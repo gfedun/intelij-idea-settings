@@ -1,6 +1,7 @@
 <application>
-  <component name="NotificationConfiguration" systemNotifications="false">
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
     <notification groupId="Apache Camel" displayType="NONE" />
+    <notification groupId="Lombok plugin" shouldLog="false" />
     <notification groupId="Vcs Notifications" shouldLog="false" />
   </component>
 </application>
