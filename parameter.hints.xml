@@ -6,11 +6,20 @@
         <added pattern="com.agraf.sigma.gui.controls.menuBar.MenuBarPane.MenuBarPane(name,pane,view)" />
       </blacklist>
     </blacklists>
-    <option id="java.method.name.contains.parameter.name" value="true" />
+    <option id="js.only.show.names.for.tagged" value="false" />
+    <option id="java.enums" value="false" />
+    <option id="java.new.expr" value="false" />
+    <option id="js.only.show.names.for.pipes" value="false" />
+    <option id="angular.show.names.for.pipes" value="false" />
+    <option id="go.return.parameters" value="false" />
+    <option id="go.struct.unnamed.struct.fields" value="false" />
     <disabledLanguages>
+      <language id="JAVA" />
       <language id="Angular2Html" />
+      <language id="Scala" />
       <language id="JavaScript" />
       <language id="kotlin" />
+      <language id="go" />
       <language id="Groovy" />
       <language id="SQL" />
     </disabledLanguages>
