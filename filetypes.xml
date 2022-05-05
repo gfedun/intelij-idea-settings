@@ -7,6 +7,7 @@
       <mapping pattern="VERSION_DEVELOP" type="PLAIN_TEXT" />
       <mapping pattern="AUTHORS" type="PLAIN_TEXT" />
       <mapping pattern="NEWS" type="PLAIN_TEXT" />
+      <mapping ext="autosave" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="dia" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
