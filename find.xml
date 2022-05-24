@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'portland-asrs-autostore'" />
-    <option name="defaultScopeName" value="Project 'portland-asrs-autostore'" />
+    <option name="customScope" value="Project 'wes-olm-system'" />
+    <option name="defaultScopeName" value="Project 'wes-olm-system'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Project 'portland-asrs-autostore'" />
+    <option name="SEARCH_SCOPE" value="Project 'wes-olm-system'" />
     <option name="FILE_MASK" value="*" />
     <mask>Js*</mask>
     <mask>*.css</mask>
