@@ -3,7 +3,7 @@
     <property name="created">2019-09-09T09:16:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-08-22T21:27:42</property>
+    <property name="modified">2022-11-04T20:28:47</property>
     <property name="originalScheme">AGRAF</property>
   </metaInfo>
   <colors>
@@ -97,6 +97,11 @@
         <option name="FOREGROUND" value="c81414" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="55ff" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="660e7a" />
@@ -116,6 +121,11 @@
       <value>
         <option name="FOREGROUND" value="727272" />
         <option name="BACKGROUND" value="e1e1e1" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="1948a6" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -441,7 +451,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="1f1f1f" />
+        <option name="FOREGROUND" value="f0f0f" />
         <option name="BACKGROUND" value="f4f4f4" />
       </value>
     </option>
