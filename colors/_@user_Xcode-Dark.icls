@@ -3,12 +3,12 @@
     <property name="created">2022-11-05T13:21:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-05T14:40:33</property>
+    <property name="modified">2022-11-05T15:23:20</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="2f3239" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="262a28" />
+    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2a2e2b" />
     <option name="GUTTER_BACKGROUND" value="2a2e2b" />
     <option name="WHITESPACES" value="4f535f" />
   </colors>
@@ -96,9 +96,7 @@
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="fcfcfc" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_METADATA">
       <value>
@@ -106,9 +104,7 @@
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="d7c781" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value />
@@ -125,9 +121,7 @@
       </value>
     </option>
     <option name="DEFAULT_STRING">
-      <value>
-        <option name="FOREGROUND" value="ff806c" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -268,6 +262,26 @@
         <option name="BACKGROUND" value="c4d3f1" />
       </value>
     </option>
+    <option name="JAVA_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="2a2e2b" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="d1312c" />
+      </value>
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="e08d8d" />
+      </value>
+    </option>
+    <option name="JAVA_VALID_STRING_ESCAPE">
+      <value />
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
@@ -356,8 +370,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c5c5c5" />
-        <option name="BACKGROUND" value="262a28" />
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="BACKGROUND" value="2a2e2b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
