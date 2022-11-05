@@ -3,7 +3,7 @@
     <property name="created">2022-11-04T21:18:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-04T22:01:51</property>
+    <property name="modified">2022-11-04T22:26:03</property>
     <property name="originalScheme">_@user_One Dark</property>
   </metaInfo>
   <colors>
@@ -624,7 +624,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="EFFECT_COLOR" value="fcbb7d" />
+        <option name="EFFECT_COLOR" value="dfc5a9" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -661,12 +661,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f05555" />
+        <option name="FOREGROUND" value="f04646" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fcbb7d" />
+        <option name="FOREGROUND" value="f0d1b0" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -677,15 +677,15 @@
       <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="c89af2" />
+      </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value />
     </option>
     <option name="DEFAULT_STRING">
-      <value>
-        <option name="FOREGROUND" value="fe75b1" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
@@ -1119,6 +1119,11 @@
     <option name="JAVA_KEYWORD">
       <value />
     </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="e95b40" />
+      </value>
+    </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
@@ -1306,6 +1311,12 @@
     <option name="LOCALE.MSGSTR_PLURAL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="f2dcc5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
@@ -2051,9 +2062,6 @@
     </option>
     <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-      <value />
-    </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value />
@@ -2102,7 +2110,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="bcc1ca" />
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
