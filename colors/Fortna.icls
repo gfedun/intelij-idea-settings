@@ -3,16 +3,16 @@
     <property name="created">2019-09-09T09:16:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2022-11-05T00:38:01</property>
+    <property name="modified">2022-11-05T00:55:11</property>
     <property name="originalScheme">AGRAF</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="161616" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="" />
-    <option name="INDENT_GUIDE" value="e2e2e2" />
-    <option name="LINE_NUMBERS_COLOR" value="9c9c9c" />
+    <option name="GUTTER_BACKGROUND" value="ebebeb" />
+    <option name="INDENT_GUIDE" value="d5d5d5" />
+    <option name="LINE_NUMBERS_COLOR" value="808080" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="d1d1d1" />
     <option name="SELECTED_INDENT_GUIDE" value="cacaca" />
@@ -20,7 +20,7 @@
     <option name="ScrollBar.hoverThumbColor" value="73737333" />
     <option name="TAB_UNDERLINE" value="58a1b" />
     <option name="TAB_UNDERLINE_INACTIVE" value="58a1b" />
-    <option name="TEARLINE_COLOR" value="acacac" />
+    <option name="TEARLINE_COLOR" value="808080" />
     <option name="VISUAL_INDENT_GUIDE" value="e6e6e6" />
     <option name="WHITESPACES" value="f6f6f6" />
   </colors>
