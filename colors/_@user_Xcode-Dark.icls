@@ -3,12 +3,12 @@
     <property name="created">2022-11-05T13:21:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-05T16:41:54</property>
+    <property name="modified">2022-11-05T16:54:26</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2a2e2b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2f2f2f" />
     <option name="GUTTER_BACKGROUND" value="2a2e2b" />
     <option name="LINE_NUMBERS_COLOR" value="797c7d" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
@@ -16,7 +16,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="ebc782" />
     <option name="TEARLINE_COLOR" value="959595" />
     <option name="VISUAL_INDENT_GUIDE" value="4c4c4c" />
-    <option name="WHITESPACES" value="4f535f" />
+    <option name="WHITESPACES" value="" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -435,7 +435,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c0c0c0" />
-        <option name="BACKGROUND" value="2a2e2b" />
+        <option name="BACKGROUND" value="2f2f2f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
