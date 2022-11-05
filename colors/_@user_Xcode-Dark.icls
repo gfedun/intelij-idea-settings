@@ -3,7 +3,7 @@
     <property name="created">2022-11-05T13:21:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-05T17:50:21</property>
+    <property name="modified">2022-11-05T18:34:29</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -53,7 +53,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="739575" />
+        <option name="FOREGROUND" value="4a6154" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -98,7 +98,6 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="b1a46b" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -113,7 +112,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="739575" />
+        <option name="FOREGROUND" value="4a6154" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -124,7 +123,9 @@
       <value />
     </option>
     <option name="DEFAULT_NUMBER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="d14444" />
+      </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
@@ -141,17 +142,17 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="a27aba" />
+        <option name="FOREGROUND" value="8f76a3" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="a27aba" />
+        <option name="FOREGROUND" value="8f76a3" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="b1a46b" />
+        <option name="FOREGROUND" value="b56767" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -307,11 +308,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="d44740" />
-      </value>
-    </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value />
     </option>
@@ -325,13 +321,13 @@
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="c6c6c6" />
+        <option name="EFFECT_COLOR" value="c0c0c0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="68d85d" />
         <option name="BACKGROUND" value="585859" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="585859" />
@@ -348,7 +344,8 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7da4c7" />
+        <option name="EFFECT_COLOR" value="3283ba" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_ARRAY">
@@ -431,7 +428,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c2c2c2" />
+        <option name="FOREGROUND" value="bfbfbf" />
         <option name="BACKGROUND" value="272727" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
