@@ -3,12 +3,13 @@
     <property name="created">2022-11-05T23:51:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-05T23:52:43</property>
+    <property name="modified">2022-11-06T00:46:22</property>
     <property name="originalScheme">Fortna-Draculat2</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="2f3239" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="252526" />
+    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
+    <option name="GUTTER_BACKGROUND" value="272727" />
     <option name="WHITESPACES" value="4f535f" />
   </colors>
   <attributes>
@@ -76,7 +77,6 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="fd9a86" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -95,9 +95,7 @@
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="fcfcfc" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_METADATA">
       <value>
@@ -106,7 +104,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="d7c781" />
+        <option name="FOREGROUND" value="9a3b3b" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -125,7 +123,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ff806c" />
+        <option name="FOREGROUND" value="9c7373" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -275,6 +273,12 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="a9a9a9" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="585859" />
@@ -355,8 +359,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c5c5c5" />
-        <option name="BACKGROUND" value="252526" />
+        <option name="FOREGROUND" value="b8b8b8" />
+        <option name="BACKGROUND" value="1f1f1f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -369,8 +373,6 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3169b0" />
-        <option name="ERROR_STRIPE_COLOR" value="3e8ee3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>

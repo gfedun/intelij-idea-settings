@@ -1,10 +1,10 @@
-<scheme name="Fortna-Draculat2" version="142" parent_scheme="Darcula">
+<scheme name="Fortna-Dracula2" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-11-05T23:45:11</property>
+    <property name="created">2022-11-06T00:16:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-05T23:47:15</property>
-    <property name="originalScheme">Fortna-Black</property>
+    <property name="modified">2022-11-06T00:16:43</property>
+    <property name="originalScheme">Fortna-Draculat2</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="2f3239" />
