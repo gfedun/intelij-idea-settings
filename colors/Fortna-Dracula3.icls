@@ -3,7 +3,7 @@
     <property name="created">2022-11-05T23:51:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-06T01:42:14</property>
+    <property name="modified">2022-11-06T01:52:20</property>
     <property name="originalScheme">Fortna-Draculat2</property>
   </metaInfo>
   <colors>
@@ -17,7 +17,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="857e74" />
+        <option name="FOREGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -128,7 +128,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="df9e6d" />
+        <option name="FOREGROUND" value="ba685a" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
