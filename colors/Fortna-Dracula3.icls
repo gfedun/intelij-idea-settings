@@ -3,7 +3,7 @@
     <property name="created">2022-11-05T23:51:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-06T01:30:40</property>
+    <property name="modified">2022-11-06T01:35:43</property>
     <property name="originalScheme">Fortna-Draculat2</property>
   </metaInfo>
   <colors>
@@ -258,6 +258,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="999999" />
+        <option name="BACKGROUND" value="8484b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -306,7 +308,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b577ca" />
+        <option name="EFFECT_COLOR" value="a5cace" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
