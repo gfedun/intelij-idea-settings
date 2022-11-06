@@ -3,7 +3,7 @@
     <property name="created">2022-11-05T23:51:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-06T01:52:20</property>
+    <property name="modified">2022-11-06T01:30:40</property>
     <property name="originalScheme">Fortna-Draculat2</property>
   </metaInfo>
   <colors>
@@ -118,17 +118,17 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="956bab" />
+        <option name="FOREGROUND" value="9173a3" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="956bab" />
+        <option name="FOREGROUND" value="9173a3" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ba685a" />
+        <option name="FOREGROUND" value="a39d70" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -258,8 +258,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4d5565" />
-        <option name="ERROR_STRIPE_COLOR" value="81899c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -285,12 +283,13 @@
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b0b0b0" />
+        <option name="EFFECT_COLOR" value="d6d6d6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="f8c805" />
         <option name="BACKGROUND" value="585859" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="585859" />
@@ -307,7 +306,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="419fb2" />
+        <option name="EFFECT_COLOR" value="b577ca" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
