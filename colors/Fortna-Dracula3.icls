@@ -3,14 +3,18 @@
     <property name="created">2022-11-05T23:51:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-06T01:35:43</property>
+    <property name="modified">2022-11-06T12:12:35</property>
     <property name="originalScheme">Fortna-Draculat2</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
-    <option name="GUTTER_BACKGROUND" value="272727" />
-    <option name="LINE_NUMBERS_COLOR" value="747576" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1f1f1f" />
+    <option name="GUTTER_BACKGROUND" value="2b2b2c" />
+    <option name="LINE_NUMBERS_COLOR" value="848586" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="373737" />
+    <option name="SELECTED_TEARLINE_COLOR" value="cfcfcf" />
+    <option name="TEARLINE_COLOR" value="777777" />
     <option name="WHITESPACES" value="4f535f" />
   </colors>
   <attributes>
@@ -89,7 +93,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="56694e" />
+        <option name="FOREGROUND" value="60745e" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -100,7 +104,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="b14343" />
+        <option name="FOREGROUND" value="d95151" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -118,17 +122,17 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="9173a3" />
+        <option name="FOREGROUND" value="9c7bb2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="9173a3" />
+        <option name="FOREGROUND" value="9c7bb2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a39d70" />
+        <option name="FOREGROUND" value="9e876e" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -143,8 +147,6 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="bc3f3c" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -258,8 +260,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="999999" />
-        <option name="BACKGROUND" value="8484b2" />
+        <option name="FOREGROUND" value="f1ce9f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -285,16 +286,15 @@
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="d6d6d6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f8c805" />
-        <option name="BACKGROUND" value="585859" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="e9b374" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="585859" />
+        <option name="EFFECT_COLOR" value="e9b374" />
         <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>
     </option>
@@ -308,7 +308,6 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="a5cace" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -376,8 +375,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="b8b8b8" />
-        <option name="BACKGROUND" value="1f1f1f" />
+        <option name="FOREGROUND" value="bfbfbf" />
+        <option name="BACKGROUND" value="252526" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -393,6 +392,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="5ec6f0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
