@@ -3,19 +3,22 @@
     <property name="created">2022-11-06T12:14:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-07T01:54:59</property>
+    <property name="modified">2022-11-07T02:31:54</property>
     <property name="originalScheme">Fortna-Dracula3</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1f1f1f" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e" />
     <option name="GUTTER_BACKGROUND" value="242424" />
-    <option name="INDENT_GUIDE" value="343434" />
+    <option name="INDENT_GUIDE" value="2c2c2c" />
     <option name="LINE_NUMBERS_COLOR" value="848586" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="eabc73" />
-    <option name="SELECTED_INDENT_GUIDE" value="767676" />
+    <option name="RIGHT_MARGIN_COLOR" value="424242" />
+    <option name="SELECTED_INDENT_GUIDE" value="686868" />
     <option name="SELECTED_TEARLINE_COLOR" value="b8a061" />
+    <option name="TEARLINE_COLOR" value="474747" />
+    <option name="VISUAL_INDENT_GUIDE" value="424242" />
     <option name="WHITESPACES" value="4f535f" />
   </colors>
   <attributes>
@@ -389,8 +392,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="b0b0b4" />
-        <option name="BACKGROUND" value="1f1f1f" />
+        <option name="FOREGROUND" value="b0b2b6" />
+        <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
