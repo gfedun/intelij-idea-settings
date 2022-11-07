@@ -4,105 +4,13 @@
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="CodeVisionSettings">
-    <option name="codeVisionGroupToPosition">
-      <map>
-        <entry key="inheritors" value="Default" />
-        <entry key="problems" value="Default" />
-        <entry key="references" value="Default" />
-        <entry key="vcs.code.vision" value="Default" />
-      </map>
-    </option>
-    <option name="disabledCodeVisionProviderIds">
-      <set>
-        <option value="vcs.code.vision" />
-      </set>
-    </option>
   </component>
   <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CFML" value="true" />
-        <entry key="CSS" value="true" />
-        <entry key="FTL" value="true" />
-        <entry key="Groovy" value="true" />
-        <entry key="HOCON" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="Haml" value="true" />
-        <entry key="JAVA" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JSP" value="true" />
-        <entry key="JSPX" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="PHP" value="true" />
-        <entry key="Python" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="SQL" value="true" />
-        <entry key="Scala" value="true" />
-        <entry key="Stylus" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="VTL" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="go" value="true" />
-        <entry key="kotlin" value="true" />
-        <entry key="protobuf" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="JAVA.annotation.hints" />
-        <option value="JAVA.microservices.url.path.inlay.hints" />
-        <option value="Scala.microservices.url.path.inlay.hints" />
-        <option value="go.microservices.url.path.inlay.hints" />
-        <option value="kotlin.kotlin.lambdas.hints" />
-        <option value="kotlin.kotlin.ranges.hints" />
-        <option value="kotlin.microservices.url.path.inlay.hints" />
-      </set>
-    </option>
-    <option name="disabledLanguages">
-      <set>
-        <option value="JAVA" />
-        <option value="Scala" />
-        <option value="go" />
-        <option value="kotlin" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
-    <settingsMapElement>
-      <JAVA.annotation.hints>
-        <Settings>
-          <option name="showExternal" value="false" />
-        </Settings>
-      </JAVA.annotation.hints>
-      <kotlin.kotlin.lambdas.hints>
-        <Settings>
-          <option name="implicitReceiversAndParams" value="false" />
-          <option name="returnExpressions" value="false" />
-        </Settings>
-      </kotlin.kotlin.lambdas.hints>
-    </settingsMapElement>
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern pattern="\b(todo|fixme):\s+\[(g|G)(k|K)(f|F)\]" />
-    <filter name="GkF">
-      <pattern index="1" />
-    </filter>
   </component>
 </application>

@@ -3,51 +3,75 @@
     <option name="autoTrigger" value="false" />
     <option name="rulesByKey">
       <map>
-        <entry key="java:S1118">
+        <entry key="squid:CommentedOutCodeLine">
           <value>
-            <Rule active="false" key="java:S1118" />
+            <Rule active="false" key="squid:CommentedOutCodeLine" />
           </value>
         </entry>
-        <entry key="java:S112">
+        <entry key="squid:RedundantThrowsDeclarationCheck">
           <value>
-            <Rule active="false" key="java:S112" />
+            <Rule active="false" key="squid:RedundantThrowsDeclarationCheck" />
           </value>
         </entry>
-        <entry key="java:S1130">
+        <entry key="squid:S00101">
           <value>
-            <Rule active="false" key="java:S1130" />
+            <Rule active="false" key="squid:S00101" />
           </value>
         </entry>
-        <entry key="java:S1186">
+        <entry key="squid:S00112">
           <value>
-            <Rule active="false" key="java:S1186" />
+            <Rule active="false" key="squid:S00112" />
           </value>
         </entry>
-        <entry key="java:S3398">
+        <entry key="squid:S00120">
           <value>
-            <Rule active="false" key="java:S3398" />
+            <Rule active="false" key="squid:S00120" />
           </value>
         </entry>
-        <entry key="java:S3416">
+        <entry key="squid:S1068">
           <value>
-            <Rule active="false" key="java:S3416" />
+            <Rule active="false" key="squid:S1068" />
           </value>
         </entry>
-        <entry key="java:S6212">
+        <entry key="squid:S1172">
           <value>
-            <Rule key="java:S6212" />
+            <Rule active="false" key="squid:S1172" />
+          </value>
+        </entry>
+        <entry key="squid:S1192">
+          <value>
+            <Rule active="false" key="squid:S1192" />
+          </value>
+        </entry>
+        <entry key="squid:S3008">
+          <value>
+            <Rule active="false" key="squid:S3008" />
+          </value>
+        </entry>
+        <entry key="squid:S3985">
+          <value>
+            <Rule active="false" key="squid:S3985" />
+          </value>
+        </entry>
+        <entry key="squid:UnusedPrivateMethod">
+          <value>
+            <Rule active="false" key="squid:UnusedPrivateMethod" />
           </value>
         </entry>
       </map>
     </option>
     <rules>
-      <Rule active="false" key="java:S3416" />
-      <Rule active="false" key="java:S112" />
-      <Rule active="false" key="java:S1186" />
-      <Rule active="false" key="java:S1130" />
-      <Rule key="java:S6212" />
-      <Rule active="false" key="java:S3398" />
-      <Rule active="false" key="java:S1118" />
+      <Rule active="false" key="squid:CommentedOutCodeLine" />
+      <Rule active="false" key="squid:RedundantThrowsDeclarationCheck" />
+      <Rule active="false" key="squid:S3985" />
+      <Rule active="false" key="squid:S1068" />
+      <Rule active="false" key="squid:S00101" />
+      <Rule active="false" key="squid:S00112" />
+      <Rule active="false" key="squid:S00120" />
+      <Rule active="false" key="squid:S3008" />
+      <Rule active="false" key="squid:S1172" />
+      <Rule active="false" key="squid:UnusedPrivateMethod" />
+      <Rule active="false" key="squid:S1192" />
     </rules>
   </component>
 </application>
