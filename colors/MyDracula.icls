@@ -3,7 +3,7 @@
     <property name="created">2022-11-06T12:14:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-07T13:25:59</property>
+    <property name="modified">2022-11-07T13:47:48</property>
     <property name="originalScheme">Fortna-Dracula3</property>
   </metaInfo>
   <colors>
@@ -272,8 +272,7 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="797e81" />
-        <option name="BACKGROUND" value="47494a" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
