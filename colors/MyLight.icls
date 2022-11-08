@@ -1,11 +1,28 @@
-<scheme name="AGRAF" version="142" parent_scheme="Default">
+<scheme name="MyLight" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2022-11-07T19:30:52</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
+    <property name="modified">2022-11-07T19:33:28</property>
+    <property name="originalScheme">Fortna</property>
+  </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
+    <option name="CARET_COLOR" value="161616" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="e5e5e5" />
+    <option name="GUTTER_BACKGROUND" value="ececec" />
+    <option name="INDENT_GUIDE" value="d6d6d6" />
+    <option name="LINE_NUMBERS_COLOR" value="6f6f6f" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="bababa" />
-    <option name="WHITESPACES" value="e1e1e1" />
+    <option name="RIGHT_MARGIN_COLOR" value="d1d1d1" />
+    <option name="SELECTED_INDENT_GUIDE" value="c4c4c4" />
+    <option name="SELECTED_TEARLINE_COLOR" value="e41111" />
+    <option name="ScrollBar.hoverThumbColor" value="73737333" />
+    <option name="TAB_UNDERLINE" value="58a1b" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="58a1b" />
+    <option name="TEARLINE_COLOR" value="8b8b8b" />
+    <option name="VISUAL_INDENT_GUIDE" value="d6d6d6" />
+    <option name="WHITESPACES" value="f6f6f6" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -109,7 +126,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="4080" />
-        <option name="BACKGROUND" value="e7e7e7" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -125,8 +141,10 @@
     <option name="DEFAULT_TAG">
       <value>
         <option name="FOREGROUND" value="601870" />
-        <option name="BACKGROUND" value="e1e1e1" />
       </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -160,7 +178,6 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="4080" />
-        <option name="BACKGROUND" value="e1e1e1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -179,7 +196,6 @@
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="780000" />
-        <option name="BACKGROUND" value="e1e1e1" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -191,8 +207,16 @@
       <value />
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="BACKGROUND" value="f5f7f0" />
+        <option name="FOREGROUND" value="7a7a7a" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -231,11 +255,6 @@
     <option name="JAVA_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="3f7f5f" />
-      </value>
-    </option>
-    <option name="JAVA_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="93131c" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -361,6 +380,31 @@
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value />
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="6d8363" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="957e9a" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="6f9990" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="797d9f" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="967a6b" />
+      </value>
+    </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7d197d" />
@@ -385,10 +429,20 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="ffffc4" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="BACKGROUND" value="ffffc4" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="1f1f1f" />
-        <option name="BACKGROUND" value="eeeeee" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f4f4f4" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -411,6 +465,9 @@
       <value>
         <option name="FOREGROUND" value="de2237" />
       </value>
+    </option>
+    <option name="XSLT_DIRECTIVE">
+      <value />
     </option>
   </attributes>
 </scheme>
