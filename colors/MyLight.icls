@@ -1,10 +1,10 @@
 <scheme name="MyLight" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-11-07T19:30:52</property>
+    <property name="created">2022-11-07T19:34:43</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-07T19:33:28</property>
-    <property name="originalScheme">Fortna</property>
+    <property name="modified">2022-11-07T19:36:20</property>
+    <property name="originalScheme">MyLightX</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
