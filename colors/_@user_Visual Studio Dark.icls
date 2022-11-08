@@ -3,7 +3,7 @@
     <property name="created">2022-11-07T19:38:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-07T20:39:35</property>
+    <property name="modified">2022-11-07T21:01:16</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <colors>
@@ -13,7 +13,7 @@
     <option name="INDENT_GUIDE" value="2c2c2c" />
     <option name="LINE_NUMBERS_COLOR" value="848586" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
-    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="eabc73" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="f8c67f" />
     <option name="RIGHT_MARGIN_COLOR" value="424242" />
     <option name="SELECTED_INDENT_GUIDE" value="686868" />
     <option name="SELECTED_TEARLINE_COLOR" value="b8a061" />
@@ -315,8 +315,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="f8c67f" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="eabc73" />
+        <option name="EFFECT_COLOR" value="e5e8eb" />
         <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>
     </option>
