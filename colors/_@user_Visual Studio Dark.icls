@@ -3,7 +3,7 @@
     <property name="created">2022-11-07T19:38:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-10T13:48:27</property>
+    <property name="modified">2022-11-10T14:28:22</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <colors>
@@ -412,7 +412,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="babec2" />
+        <option name="FOREGROUND" value="babec1" />
         <option name="BACKGROUND" value="1c1c1c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
