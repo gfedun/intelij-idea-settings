@@ -3,7 +3,7 @@
     <property name="created">2022-11-07T19:38:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-11T13:29:20</property>
+    <property name="modified">2022-11-11T14:00:00</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <colors>
@@ -108,7 +108,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="bf5252" />
+        <option name="FOREGROUND" value="b54949" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -132,7 +132,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="7e6b56" />
+        <option name="FOREGROUND" value="9d8a46" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -294,11 +294,6 @@
       <value>
         <option name="FOREGROUND" value="7896cf" />
         <option name="BACKGROUND" value="4d4d4d" />
-      </value>
-    </option>
-    <option name="JAVA_STRING">
-      <value>
-        <option name="FOREGROUND" value="9d8a46" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
