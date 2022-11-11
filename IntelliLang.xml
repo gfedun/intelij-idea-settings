@@ -1,9 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="SQL" injector-id="java">
+      <display-name>QueryProducer (org.hibernate.query)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSQLQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+    </injection>
   </component>
 </application>
