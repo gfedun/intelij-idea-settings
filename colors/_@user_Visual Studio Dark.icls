@@ -3,7 +3,7 @@
     <property name="created">2022-11-07T19:38:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-16T17:20:57</property>
+    <property name="modified">2022-11-19T01:35:11</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <colors>
@@ -47,7 +47,8 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4e5b4e" />
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -97,7 +98,8 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4e5b4e" />
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -311,7 +313,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f5ef43" />
+        <option name="FOREGROUND" value="fbcf40" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="ERROR_STRIPE_COLOR" value="585859" />
